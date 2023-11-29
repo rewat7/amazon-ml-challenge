@@ -1,1 +1,1 @@
-predicted product sizes using various features like product decsription. materials used etc
+predicted product sizes using various features like product description. materials used etc
